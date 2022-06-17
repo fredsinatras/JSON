@@ -1,0 +1,10 @@
+Telegram nickname:
+Bug_id:
+Title:
+Severity:
+Priority:
+Environment:	     
+Precondition: Installed app on the device
+STR:  
+AR:
+ER:
